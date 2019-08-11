@@ -31,3 +31,12 @@ Underline 2
 - Esto es un item de lista desordenada.
 - Esto es un item de lista desordenada.
 - Esto es un item de lista desordenada.
+
+# Links
+- <a href="http://www.google.com">Esto es un link HTML</a>
+- [Esto es un link en MarkDown](http://google.com)
+- [Esto es un link a index.html](index.html)
+
+# Imágenes
+![Logo de GitHub](https://image.flaticon.com/icons/svg/25/25231.svg )
+
